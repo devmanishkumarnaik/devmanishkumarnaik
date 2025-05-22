@@ -33,7 +33,7 @@ Email Me 👉 ✉️ **manishkumarnaik01@gmail.com** For Collaboration/Project o
 
 ### ✍️ Random Dev Quote
 ![](https://roaring-cranachan-c037d9.netlify.app/)
-(https://roaring-cranachan-c037d9.netlify.app/)
+![](https://roaring-cranachan-c037d9.netlify.app/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devmanishkumarnaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
