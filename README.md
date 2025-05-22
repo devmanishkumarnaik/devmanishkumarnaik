@@ -32,7 +32,7 @@ Email Me 👉 ✉️ **manishkumarnaik01@gmail.com** For Collaboration/Project o
 ![](https://github-profile-trophy.vercel.app/?username=devmanishkumarnaik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://ornate-cannoli-9b0eb6.netlify.app/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devmanishkumarnaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
