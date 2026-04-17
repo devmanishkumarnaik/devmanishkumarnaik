@@ -1,20 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manish%20Kumar%20Naik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Native%20Developer%20%7C%20Freelancer&descAlignY=60&descColor=a78bfa"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manish%20Kumar%20Naik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Freelancer%20%7C%20Problem%20Solver&descAlignY=60&descColor=a78bfa"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+Web+%26+Native+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%7C+React+Native+%7C+Next.js;Building+Real-Time+Apps+%7C+NexChat+%F0%9F%92%AC;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D;Eat+%F0%9F%8D%95+Sleep+%F0%9F%98%B4+Code+%F0%9F%92%BB+Repeat+%F0%9F%94%81" alt="Typing SVG" /></a>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+React+Native+%7C+Next.js;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D;Turning+ideas+into+digital+products+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-naik-787360293)
-[![Email](https://img.shields.io/badge/Hire%20Me-manishkumarnaik01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkumarnaik01@gmail.com)
-[![X](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ManishKuNaik)
-[![Profile Views](https://komarev.com/ghpvc/?username=devmanishkumarnaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/devmanishkumarnaik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-naik-787360293)
+[![Gmail](https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkumarnaik01@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/manishkumarnaik.official)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ManishKuNaik)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/manish.kumar.naik.37774)
+[![Profile Views](https://komarev.com/ghpvc/?username=devmanishkumarnaik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -24,48 +21,50 @@
 
 ```javascript
 const manish = {
-  name:       "Manish Kumar Naik",
-  role:       "Full Stack MERN Developer & Freelancer",
-  location:   "India 🇮🇳",
-  email:      "manishkumarnaik01@gmail.com",
+  name     : "Manish Kumar Naik",
+  title    : "Full Stack MERN Developer & Freelancer",
+  email    : "manishkumarnaik01@gmail.com",
 
-  currentWork: "Building products @ manishinc organization",
-  learning:    "Blockchain Technology ⛓️",
-  collab:      "Real-Time Chat App — NexChat 💬",
+  currently: {
+    workingOn : "manishinc organization 🏢",
+    learning  : "Blockchain Technology ⛓️",
+    collab    : "Real-Time Chat App — NexChat 💬",
+  },
 
-  expertise: ["React", "Node.js", "MongoDB", "Express", "React Native", "Next.js"],
-  tools:     ["Docker", "Kubernetes", "Nginx", "Figma", "Git"],
-  cloud:     ["Google Cloud", "Vercel", "Render"],
+  skills   : ["React", "Node.js", "MongoDB", "Express", "Next.js", "React Native"],
+  devOps   : ["Docker", "Kubernetes", "Nginx", "GCP", "Vercel", "Render"],
+  design   : ["Figma", "Canva", "TailwindCSS", "Bootstrap"],
 
-  funFact:   "Eat 🍕 → Sleep 😴 → Code 💻 → Repeat 🔁",
-  openTo:    ["Freelance Projects", "Full-Time Roles", "Open Source Collabs"],
+  openTo   : ["Freelance Projects 💼", "Collaborations 🤝", "Full-Time Roles 🚀"],
+  funFact  : "Eat 🍕 → Sleep 😴 → Code 💻 → Repeat 🔁",
 };
 ```
 
 ---
 
-## 🚀 What I Offer
+## 🚀 Services I Offer
 
 <div align="center">
 
-| 🌐 Web Development | 📱 Mobile Apps | ☁️ Deployment & DevOps |
-|:---:|:---:|:---:|
-| Full-stack MERN apps | React Native (Android & iOS) | Docker · Kubernetes · Nginx |
-| Next.js · TypeScript | Play Store publishing | GCP · Vercel · Render |
-| REST APIs · Real-time (WS) | Web-to-Android conversion | CI/CD · Apache |
+| 🌐 Web Development | 📱 Mobile Development | ☁️ DevOps & Cloud |
+|:---|:---|:---|
+| Full-Stack MERN Applications | React Native (Android & iOS) | Docker & Kubernetes |
+| Next.js & TypeScript | Web → Android Conversion | Google Cloud Platform |
+| REST APIs & WebSockets | Google Play Store Publishing | Vercel · Render · Nginx |
+| WordPress & CMS Solutions | Electron Desktop Apps | CI/CD Pipelines |
 
 </div>
 
-> 💼 **Available for freelance projects** — web apps, mobile apps, API development & more.  
-> 📩 Drop me an email: **manishkumarnaik01@gmail.com**
+> 💼 **Available for Freelance** — Web Apps · Mobile Apps · API Development
+> 📩 Reach me at **manishkumarnaik01@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-**Frontend**
+**⚡ Frontend**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -76,23 +75,24 @@ const manish = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
+**🔧 Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Database**
+**🗄️ Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Mobile**
+**📱 Mobile & Desktop**
 
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-**DevOps & Cloud**
+**☁️ Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -100,14 +100,17 @@ const manish = {
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**Tools & Design**
+**🛠️ Tools & Design**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 </div>
 
@@ -117,12 +120,13 @@ const manish = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devmanishkumarnaik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanishkumarnaik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devmanishkumarnaik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanishkumarnaik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="175" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=devmanishkumarnaik&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=devmanishkumarnaik&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 
 </div>
 
@@ -132,7 +136,17 @@ const manish = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devmanishkumarnaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devmanishkumarnaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+![Cristiano Ronaldo Quote](https://raw.githubusercontent.com/devmanishkumarnaik/devmanishkumarnaik/main/quote.png)
 
 </div>
 
@@ -148,33 +162,23 @@ const manish = {
 
 ---
 
-## 🌐 Connect With Me
-
+<!-- Snake Game — unchanged -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-naik-787360293)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/manishkumarnaik.official)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/manish.kumar.naik.37774)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ManishKuNaik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkumarnaik01@gmail.com)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmanishkumarnaik/devmanishkumarnaik/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmanishkumarnaik/devmanishkumarnaik/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/devmanishkumarnaik/devmanishkumarnaik/output/github-snake.svg" />
-</picture>
+*"Code is not just what I do — it's how I think."*
 
 <br/>
 
-**_"Code is not just what I do — it's how I think."_**
+[![](https://visitcount.itsvg.in/api?id=devmanishkumarnaik&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
