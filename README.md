@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Manish Kumar
-**A passionate Web Developer || Native Developer || Cloud Expert**
+# 💫 Hi 👋, I'm Manish Kumar Naik
+**A passionate Web Developer || Native Developer || MERN Stack Expert**
 
 Email Me 👉 ✉️ **manishkumarnaik01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
